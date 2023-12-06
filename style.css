@@ -111,7 +111,7 @@ h2{
     background-image: linear-gradient(to right,#61045f ,#aa076b);
 }
 
-@media(max-width:600px){
+@media (max-width:600px){
     .container{
         min-width: 280px;
     }
